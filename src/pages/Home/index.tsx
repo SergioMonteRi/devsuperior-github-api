@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home-container">
       <h1>Desafio Github API</h1>
       <h2>DevSuperior - Escola de programação</h2>
-      <Link to="/">
+      <Link to="/searchprofile">
         <button className="btn btn-primary btn-lg text-secondary start-button">
           Começar
         </button>
