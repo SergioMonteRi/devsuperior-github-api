@@ -1,0 +1,20 @@
+.home-container {
+  padding: 40px;
+}
+
+.home-container h1 {
+  font-weight: 700;
+  font-size: 3rem;
+  letter-spacing: 0.02em;
+}
+
+.home-container h2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 0.02em;
+  color: var(--soft-grey);
+}
+
+.start-button {
+  margin-top: 30px;
+}
