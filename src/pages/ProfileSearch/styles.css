@@ -2,10 +2,13 @@
   width: 90%;
   margin: auto;
   margin-top: 50px;
-  background-color: var(--soft-blue);
-  padding: 58px 30px;
 }
 
+.profile-form-container {
+  padding: 58px 30px;
+  border-radius: 16px;
+  background-color: var(--soft-blue);
+}
 .profile-search-container h1 {
   font-weight: 500;
   font-size: 38px;

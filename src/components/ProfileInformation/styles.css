@@ -1,0 +1,27 @@
+.profile-information-container {
+  display: flex;
+  margin-top: 55px;
+  background-color: #f5f5f5;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.avatar-image {
+  width: 243px;
+  height: 243px;
+  margin-right: 30px;
+}
+
+.profile-content {
+  width: 100%;
+  background-color: var(--main-white);
+  padding: 8px 14px;
+  border-radius: 6px;
+  border: 1px solid #d9d9d9;
+}
+
+.profile-content h3 {
+  color: #1890ff;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
